@@ -43,3 +43,22 @@ nav ul li a{
     color: white;
     font-size: 17px;
 }
+
+.content{
+    text-align: center;
+}
+.content h1{
+font-size: 160px;
+color: white;
+font-weight: 600;
+}
+.content a{
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    font-size: 24px;
+    border: 2px solid white;
+    padding: 14px 70px ;
+    border-radius: 50px;
+    margin-top: 20px;
+}
